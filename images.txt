@@ -1,2 +1,2 @@
-pixman/pixman:latest pixman/pixman:latest
+pixman:latest
 
