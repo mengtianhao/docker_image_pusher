@@ -1,2 +1,2 @@
-linuxserver/qbittorrent:4.6.5
+linuxserver/qbittorrent:4.5.3
 
