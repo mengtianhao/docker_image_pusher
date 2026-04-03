@@ -1,3 +1,4 @@
 pixman/pixman
 youshandefeiyang/allinone
 shenxianmq/auto_symlink
+libzonda/flclash-docker
